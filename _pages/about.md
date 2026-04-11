@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>College of Computer Science</p>
-    <p>Northwest Universiy</p>
+    <p>Northwest University</p>
     <p>Xi'an, Shaanxi Province</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
