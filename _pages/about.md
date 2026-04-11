@@ -27,10 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Yuhe Zhang**, an associate professor in Northewest University. My research focuses on point cloud processing, 3D shape generation and digital restoration of cultural heritage, with rencently particular interests in 3D shape editing methods.
+I am **Yuhe Zhang**, an Associate Professor at Northwest University. My research lies in 3D vision, with a focus on point cloud processing, 3D shape generation, and digital restoration of cultural heritage. Recently, I have developed a particular interest in 3D shape editing methods.
+
+In addition, I am increasingly interested in AI for Regional and Country Studies, in collaboration with Prof. Xiangrong Zhang at NWU.
 
 My current research focuses on:
+- Text- and image-guided 3D shape editing
+- 3D shape synthesis based on 3D Gaussian Splatting
+- Generative methods for 3D animation
 
-- Diffusion Models
-- 3D Shape Generation
-- Cultural Heritage Restoration
+We are continuously seeking motivated undergraduate and master’s students, and warmly welcome applications to join our research group.
