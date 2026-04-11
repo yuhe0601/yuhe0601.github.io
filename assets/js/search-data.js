@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-a-second-year-phd-student-sparkles-smile",
-          title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu (a Second-year PhD...',
+            },},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
+          title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
