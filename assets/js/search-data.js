@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-a-second-year-phd-student-sparkles-smile",
+          title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu (a Second-year PhD...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
