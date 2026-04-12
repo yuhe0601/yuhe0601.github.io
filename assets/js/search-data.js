@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu",
-          title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.',
+            },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
+          title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.:sparkles:',
           description: "",
           section: "News",},{id: "news-our-work-cmff-is-accepted-in-tvcg-congratulations-to-jian-gao",
           title: 'Our work CMFF is accepted in TVCG. Congratulations to Jian Gao.',
