@@ -412,13 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu",
           title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.',
+          description: "",
+          section: "News",},{id: "news-our-work-cmff-is-accepted-in-tvcg-congratulations-to-jian-gao",
+          title: 'Our work CMFF is accepted in TVCG. Congratulations to Jian Gao.',
           description: "",
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
