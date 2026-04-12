@@ -7,12 +7,11 @@ profile:
   align: right
   image: yuhe.png
   image_circular: false # crops the image to make it circular
-  {% comment %}
-  more_info: >
-    <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">College of Computer Science</p>
-    <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">Northwest University</p>
-    <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">Xi'an, Shaanxi Province</p>
-  {% endcomment %}
+  # more_info: >
+    # <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">College of Computer Science</p>
+    # <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">Northwest University</p>
+    # <p style="font-family: 'Source Code Pro', serif; font-size: 18px;">Xi'an, Shaanxi Province</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
