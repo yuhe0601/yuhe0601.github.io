@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Yuhe Zhang**, an Associate Professor at Northwest University and a PhD supervisor. My research lies in 3D vision, with a focus on point cloud processing, 3D shape generation, and digital restoration of cultural heritage. Recently, I have developed a particular interest in 3D shape editing methods.
+I am **Yuhe Zhang**, an Associate Professor at Northwest University and a PhD supervisor. I obtained a Bachelor’s degree in Software Engineering and a PhD in Computer Science from Northwest University (NWU). I visited Professor Daniel Cohen-Or’s lab in Israel in 2022. 
+
+My research lies in 3D vision, with a focus on point cloud processing, 3D shape generation, and digital restoration of cultural heritage. Recently, I have developed a particular interest in 3D shape editing methods.
 
 My current research focuses on:
 - Text- and image-guided 3D shape editing
