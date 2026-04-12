@@ -34,7 +34,3 @@ My current research focuses on:
 - Generative methods for 3D animation
 
 <span style="color: #B330B3;">We are continuously seeking motivated undergraduate and master’s students, and warmly welcome applications to join our research group.</span>
-
-**Research Projects in Progress**
-
-
