@@ -37,3 +37,13 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* ------------------------------
+   Publication note style
+--------------------------------*/
+.paper-note {
+  font-size: 14px;
+  color: #666;
+  margin-top: 6px;
+  line-height: 1.5;
+}
