@@ -387,12 +387,10 @@ ninja.data = [{
             },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
           title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.:sparkles:',
           description: "",
-          section: "News",},{id: "news-2025nn",
-          title: '2025nn',
+          section: "News",},{id: "news-our-work-cmff-is-accepted-in-neural-networks-congratulations-to-jian-gao",
+          title: 'Our work CMFF is accepted in Neural Networks. Congratulations to Jian Gao.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025NN/";
-            },},{id: "news-i-got-young-top-talent-sanqin-special-support-program-shaanxi-province-smile",
+          section: "News",},{id: "news-i-got-young-top-talent-sanqin-special-support-program-shaanxi-province-smile",
           title: 'I got Young Top Talent, Sanqin Special Support Program (Shaanxi Province). :smile:',
           description: "",
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
