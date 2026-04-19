@@ -27,15 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Yuhe Zhang**, an Associate Professor at Northwest University and a PhD supervisor. I obtained a Bachelor’s degree in Software Engineering and a PhD in Computer Science from Northwest University (NWU). I visited Professor Daniel Cohen-Or’s lab in Israel in 2022. 
+I am **Yuhe Zhang**, an Associate Professor and a PhD supervisor at Northwest University(NWU). I obtained a Bachelor’s degree in Software Engineering and a PhD in Computer Science from NWU. I visited Professor Daniel Cohen-Or’s lab in Israel in 2022. 
 
-My research lies in 3D vision, with a focus on point cloud processing, 3D shape generation, and digital restoration of cultural heritage. Recently, I have developed a particular interest in 3D shape editing methods.
+My research centres on 3D vision, with particular emphasis on point cloud processing, 3D shape generation, and the digital restoration of cultural heritage. More recently, I have developed a keen interest in 3D shape editing methods.
 
-<span style="color: #B330B3;">Recently, I have developed a growing interest in applying AI to regional and country studies, in collaboration with Prof. Xiangrong Zhang from Northwest University. </span>
+<span style="color: #B330B3;">In parallel, I have begun to explore the application of AI to regional and country studies, in collaboration with Prof. Xiangrong Zhang at Northwest University.</span>
 
 My current research focuses on:
 - Text- and image-guided 3D shape editing
 - 3D shape synthesis based on 3D Gaussian Splatting
 - Generative methods for 3D animation
+- AI for Regional and Country Studies
 
 <span style="color: #B330B3;">We are continuously seeking motivated undergraduate and master’s students, and warmly welcome applications to join our research group.</span>
