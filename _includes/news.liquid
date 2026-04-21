@@ -2,22 +2,20 @@
   {% if site.news != blank %}
 
     {% assign news = site.news | sort: "date" | reverse %}
-    {% assign news_by_year = news | group_by_exp: "item", "item.date | date: '%Y'" %}
 
-    {% for year in news_by_year %}
+    <!-- ✅ 首页（只显示少量，不分组） -->
+    {% if include.limit %}
 
-      <h2 style="margin-top: 20px;">{{ year.name }}</h2>
+      {% assign news_limit = 5 %}
 
       <div class="table-responsive">
         <table class="table table-sm table-borderless">
 
-          {% for item in year.items %}
-
+          {% for item in news limit: news_limit %}
             <tr>
               <th scope="row" style="width: 20%">
                 {{ item.date | date: '%b %d, %Y' }}
               </th>
-
               <td>
                 {% if item.inline %}
                   {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -28,13 +26,46 @@
                 {% endif %}
               </td>
             </tr>
-
           {% endfor %}
 
         </table>
       </div>
 
-    {% endfor %}
+    <!-- ✅ News 页面（全部 + 年份分组） -->
+    {% else %}
+
+      {% assign news_by_year = news | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+      {% for year in news_by_year %}
+
+        <h2 style="margin-top: 20px;">{{ year.name }}</h2>
+
+        <div class="table-responsive">
+          <table class="table table-sm table-borderless">
+
+            {% for item in year.items %}
+              <tr>
+                <th scope="row" style="width: 20%">
+                  {{ item.date | date: '%b %d, %Y' }}
+                </th>
+                <td>
+                  {% if item.inline %}
+                    {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                  {% else %}
+                    <a class="news-title" href="{{ item.url | relative_url }}">
+                      {{ item.title }}
+                    </a>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+
+          </table>
+        </div>
+
+      {% endfor %}
+
+    {% endif %}
 
   {% else %}
     <p>No news so far...</p>
