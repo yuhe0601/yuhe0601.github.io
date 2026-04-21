@@ -4,7 +4,7 @@ description: "We focus on constructing a multi-level feature description and und
 
 year: 2024              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
-importance: 3
+importance: 4
 
 period: "2023.01.01–2025.12.31"
 funding: "RMB 20,000"
