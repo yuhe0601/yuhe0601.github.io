@@ -403,9 +403,9 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+          section: "News",},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
+          title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
+          description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
