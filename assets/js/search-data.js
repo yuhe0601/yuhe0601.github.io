@@ -403,12 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -438,6 +433,11 @@ ninja.data = [{
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NSFC2025_project/";
+            },},{id: "projects-key-techniques-for-cultural-feature-aware-classification-of-cultural-relic-fragments",
+          title: 'Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments',
+          description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address current bottlenecks in virtual restoration.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Provincial2019_project/";
             },},{id: "projects-key-techniques-for-virtual-restoration-of-severely-damaged-cultural-artifacts-based-on-zero-shot-learning",
           title: 'Key Techniques for Virtual Restoration of Severely Damaged Cultural Artifacts Based on Zero-Shot...',
           description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
