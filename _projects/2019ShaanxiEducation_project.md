@@ -6,7 +6,7 @@ year: 2018              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 6
 
-grant number: "18JK0795"
+grant_number: "18JK0795"
 period: "2018.01.01–2019.12.31"
 funding: "RMB 20,000"
 source: "Natural Science Special Program of the Shaanxi Provincial Department of Education"
