@@ -403,12 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
-          title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
-          description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -443,6 +438,11 @@ ninja.data = [{
           description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Provincial2025_project/";
+            },},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
+          title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
+          description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ShaanxiEducation2019_project/";
             },},{id: "projects-research-on-the-construction-of-a-multi-level-feature-description-and-understanding-model-for-ceramic-cultural-relic-fragments",
           title: 'Research on the Construction of a Multi-level Feature Description and Understanding Model for...',
           description: "We focus on constructing a multi-level feature description and understanding model for ceramic artifact fragments to overcome the limitations of geometry-driven virtual restoration, including single-form representations, high redundancy, low matching efficiency, and lack of semantic expressiveness.",
