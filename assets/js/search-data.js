@@ -403,12 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -448,6 +443,11 @@ ninja.data = [{
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Provincial2025_project/";
+            },},{id: "projects-research-on-the-construction-of-a-multi-level-feature-description-and-understanding-model-for-ceramic-cultural-relic-fragments",
+          title: '**Research on the Construction of a Multi-level Feature Description and Understanding Model for...',
+          description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/YouthSupport_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
