@@ -394,6 +394,9 @@ ninja.data = [{
             },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
           title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.:sparkles:',
           description: "",
+          section: "News",},{id: "news-i-got-nsfc-general-program",
+          title: 'I got NSFC general program. 🎉',
+          description: "",
           section: "News",},{id: "news-our-work-cmff-is-accepted-in-neural-networks-congratulations-to-jian-gao",
           title: 'Our work CMFF is accepted in Neural Networks. Congratulations to Jian Gao.',
           description: "",
@@ -403,12 +406,7 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-automatic-reassembly-of-fragmented-artifacts-based-on-deep-feature-pattern-modeling",
+          section: "News",},{id: "projects-automatic-reassembly-of-fragmented-artifacts-based-on-deep-feature-pattern-modeling",
           title: '⭐ Automatic Reassembly of Fragmented Artifacts Based on Deep Feature Pattern Modeling',
           description: "We focus on the automatic reassembly of defective cultural relic fragments by addressing three key challenges: deep feature pattern learning with graph-based representation, probabilistic fragment matching, and reassembly optimization. This work establishes a unified framework that advances beyond single-feature matching and supports digital preservation, virtual restoration, and related areas such as deep learning and geometric processing.",
           section: "Projects",handler: () => {
