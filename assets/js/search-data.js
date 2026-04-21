@@ -418,7 +418,7 @@ ninja.data = [{
           title: '⭐ Large-Scale Models for Ceramic Artifact Virtual Restoration with Suppressed Cultural Bias and...',
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/NSFC2025_project/";
+              window.location.href = "/projects/2025NSFC_project/";
             },},{id: "projects-key-techniques-for-cultural-feature-aware-classification-of-cultural-relic-fragments",
           title: 'Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments',
           description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts.",
