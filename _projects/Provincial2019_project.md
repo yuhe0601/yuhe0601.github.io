@@ -6,10 +6,10 @@ year: 2019              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 5
 
-Grant Number: "2019SF-272"
-Period: "2019.01.01–2021.12.31"
-Funding: "RMB 70,000"
-Source: "Shaanxi Provincial Key R&D Program (General Program)"
-Role: "Principal Investigator"
+grant number: "2019SF-272"
+period: "2019.01.01–2021.12.31"
+funding: "RMB 70,000"
+source: "Shaanxi Provincial Key R&D Program (General Program)"
+role: "Principal Investigator"
 
 ---
