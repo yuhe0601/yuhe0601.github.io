@@ -435,7 +435,7 @@ ninja.data = [{
               window.location.href = "/projects/NSFC2025_project/";
             },},{id: "projects-key-techniques-for-cultural-feature-aware-classification-of-cultural-relic-fragments",
           title: 'Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments',
-          description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address current bottlenecks in virtual restoration.",
+          description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Provincial2019_project/";
             },},{id: "projects-key-techniques-for-virtual-restoration-of-severely-damaged-cultural-artifacts-based-on-zero-shot-learning",
