@@ -42,7 +42,7 @@ nav_order: 3
 
     <!-- Title -->
     <div class="title" style="font-size: 1.1em; margin-top: 4px;">
-      {{ project.title }}
+      <strong>{{ project.title }}</strong>
     </div>
 
     <!-- Authors（可选） -->
