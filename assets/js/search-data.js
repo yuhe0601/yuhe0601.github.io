@@ -403,9 +403,9 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-diffusion-based-3d-editing",
+          title: 'Diffusion-based 3D Editing',
+          description: "A method for controllable 3D editing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
