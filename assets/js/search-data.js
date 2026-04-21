@@ -403,17 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-storytailor-is-accepted-in-cvpr-2026-congratulations-to-jinghao-hu-sparkles-smile",
           title: 'StoryTailor is accepted in CVPR 2026. Congratulations to Jinghao Hu.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-automatic-reassembly-of-fragmented-artifacts-based-on-deep-feature-pattern-modeling",
+          section: "News",},{id: "projects-automatic-reassembly-of-fragmented-artifacts-based-on-deep-feature-pattern-modeling",
           title: '⭐ Automatic Reassembly of Fragmented Artifacts Based on Deep Feature Pattern Modeling',
           description: "We focus on the automatic reassembly of defective cultural relic fragments by addressing three key challenges: deep feature pattern learning with graph-based representation, probabilistic fragment matching, and reassembly optimization. This work establishes a unified framework that advances beyond single-feature matching and supports digital preservation, virtual restoration, and related areas such as deep learning and geometric processing.",
           section: "Projects",handler: () => {
