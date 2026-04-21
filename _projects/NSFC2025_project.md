@@ -6,9 +6,10 @@ year: 2025              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 1
 
-period: "2026.01.01–2029.12.31"
-funding: "RMB 500,000"
-source: "National Natural Science Foundation of China (NSFC)"
-role: "Principal Investigator"
+Grant Number: "62576274"
+Period: "2026.01.01–2029.12.31"
+Funding: "RMB 500,000"
+Source: "National Natural Science Foundation of China (NSFC)"
+Role: "Principal Investigator"
 
 ---
