@@ -52,17 +52,25 @@ nav_order: 3
     </div>
     {% endif %}
 
-    <!-- Info -->
+    <!-- ⭐ Info（Grant Number 放最前） -->
     <div style="font-size: 0.95em; color: #555; margin-top: 6px;">
+
+      {% if project.grant_number %}
+        <div><strong>Grant Number:</strong> {{ project.grant_number }}</div>
+      {% endif %}
+
       {% if project.period %}
         <div><strong>Period:</strong> {{ project.period }}</div>
       {% endif %}
+
       {% if project.funding %}
         <div><strong>Funding:</strong> {{ project.funding }}</div>
       {% endif %}
+
       {% if project.role %}
         <div><strong>Role:</strong> {{ project.role }}</div>
       {% endif %}
+
     </div>
 
     <!-- Description -->
