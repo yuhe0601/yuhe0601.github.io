@@ -40,3 +40,23 @@ My current research focuses on:
 - AI for Regional and Country Studies
 
 <span style="color: #B330B3;">We are continuously seeking motivated undergraduate and master’s students, and warmly welcome applications to join our research group.</span>
+
+## Links
+
+<div class="about-links">
+
+  {% if site.social.google_scholar %}
+  <a class="icon-link" href="{{ site.social.google_scholar }}" target="_blank">
+    <i class="fa-brands fa-google-scholar"></i>
+    <span>Google Scholar</span>
+  </a>
+  {% endif %}
+
+  {% if site.social.homepage %}
+  <a class="icon-link" href="{{ site.social.homepage }}" target="_blank">
+    <i class="fa-solid fa-building-columns"></i>
+    <span>Homepage</span>
+  </a>
+  {% endif %}
+
+</div>
