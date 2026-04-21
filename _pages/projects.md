@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="publications">
 
-{% assign all_projects = site.projects %}
+{% assign all_projects = site.projects | where_exp: "p", "p.year != nil" %}
 {% assign projects_by_year = all_projects | group_by: "year" | sort: "name" | reverse %}
 
 {% for year in projects_by_year %}
@@ -41,8 +41,16 @@ nav_order: 3
     {% endif %}
 
     <!-- Title -->
-    <div class="title" style="font-size: 1.1em; margin-top: 4px;">
-      <strong>{{ project.title }}</strong>
+    <div class="title" style="font-size: 1.15em; margin-top: 4px;">
+      <strong>
+        {% if project.link %}
+          <a href="{{ project.link }}" style="color: inherit; text-decoration: none;">
+            {{ project.title }}
+          </a>
+        {% else %}
+          {{ project.title }}
+        {% endif %}
+      </strong>
     </div>
 
     <!-- Authors（可选） -->
@@ -52,11 +60,11 @@ nav_order: 3
     </div>
     {% endif %}
 
-    <!-- ⭐ Info（Grant Number 放最前） -->
+    <!-- Info -->
     <div style="font-size: 0.95em; color: #555; margin-top: 6px;">
 
       {% if project.grant_number %}
-        <div><strong>Grant Number:</strong> {{ project.grant_number }}</div>
+        <div><strong>Grant No.:</strong> {{ project.grant_number }}</div>
       {% endif %}
 
       {% if project.period %}
@@ -76,7 +84,7 @@ nav_order: 3
     <!-- Description -->
     {% if project.description %}
     <div style="font-size: 0.9em; color: #555; margin-top: 8px;">
-      {{ project.description }}
+      {{ project.description | markdownify }}
     </div>
     {% endif %}
 
