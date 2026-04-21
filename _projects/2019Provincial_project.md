@@ -6,7 +6,7 @@ year: 2019              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 5
 
-grant number: "2019SF-272"
+grant_number: "2019SF-272"
 period: "2019.01.01–2021.12.31"
 funding: "RMB 70,000"
 source: "Shaanxi Provincial Key R&D Program (General Program)"
