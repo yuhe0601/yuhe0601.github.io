@@ -6,7 +6,7 @@ year: 2025              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 1
 
-grant number: "62576274"
+grant_number: "62576274"
 period: "2026.01.01–2029.12.31"
 funding: "RMB 500,000"
 source: "National Natural Science Foundation of China (NSFC)"
