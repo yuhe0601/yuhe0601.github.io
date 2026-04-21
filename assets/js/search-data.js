@@ -419,6 +419,11 @@ ninja.data = [{
           description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2019Provincial_project/";
+            },},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
+          title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
+          description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2019ShaanxiEducation_project/";
             },},{id: "projects-large-scale-models-for-ceramic-artifact-virtual-restoration-with-suppressed-cultural-bias-and-hallucination",
           title: '⭐ Large-Scale Models for Ceramic Artifact Virtual Restoration with Suppressed Cultural Bias and...',
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
@@ -429,11 +434,6 @@ ninja.data = [{
           description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025Provincial_project/";
-            },},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
-          title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
-          description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ShaanxiEducation2019_project/";
             },},{id: "projects-research-on-the-construction-of-a-multi-level-feature-description-and-understanding-model-for-ceramic-cultural-relic-fragments",
           title: 'Research on the Construction of a Multi-level Feature Description and Understanding Model for...',
           description: "We focus on constructing a multi-level feature description and understanding model for ceramic artifact fragments to overcome the limitations of geometry-driven virtual restoration, including single-form representations, high redundancy, low matching efficiency, and lack of semantic expressiveness.",
