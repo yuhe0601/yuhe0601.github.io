@@ -438,9 +438,9 @@ ninja.data = [{
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NSFC2025_project/";
-            },},{id: "projects-large-scale-models-for-ceramic-artifact-virtual-restoration-with-suppressed-cultural-bias-and-hallucination",
-          title: '**Large-Scale Models for Ceramic Artifact Virtual Restoration with Suppressed Cultural Bias and Hallucination**...',
-          description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
+            },},{id: "projects-key-techniques-for-virtual-restoration-of-severely-damaged-cultural-artifacts-based-on-zero-shot-learning",
+          title: '**Key Techniques for Virtual Restoration of Severely Damaged Cultural Artifacts Based on Zero-Shot...',
+          description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Provincial2025_project/";
             },},{id: "projects-research-on-the-construction-of-a-multi-level-feature-description-and-understanding-model-for-ceramic-cultural-relic-fragments",
