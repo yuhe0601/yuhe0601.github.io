@@ -6,6 +6,7 @@ year: 2024              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 4
 
+grant number: "20230115"
 period: "2023.01.01–2025.12.31"
 funding: "RMB 20,000"
 source: "Youth Talent Support Program of the Shaanxi Association for Science and Technology"
