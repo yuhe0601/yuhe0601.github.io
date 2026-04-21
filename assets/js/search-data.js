@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
+            },},{id: "news-i-got-young-scientists-fund-of-the-national-natural-science-foundation-of-china-nsfc-smile",
+          title: 'I got Young Scientists Fund of the National Natural Science Foundation of China...',
+          description: "",
+          section: "News",},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
           title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.:sparkles:',
           description: "",
           section: "News",},{id: "news-i-got-key-programme-of-shaanxi-provincial-natural-science-foundation-smile",
