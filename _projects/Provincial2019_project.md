@@ -1,6 +1,6 @@
 ---
 title: "Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments"
-description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address current bottlenecks in virtual restoration."
+description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts."
 
 year: 2019              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
