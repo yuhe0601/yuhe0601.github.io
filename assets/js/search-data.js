@@ -428,7 +428,7 @@ ninja.data = [{
           title: 'Key Techniques for Virtual Restoration of Severely Damaged Cultural Artifacts Based on Zero-Shot...',
           description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Provincial2025_project/";
+              window.location.href = "/projects/2025Provincial_project/";
             },},{id: "projects-key-techniques-for-virtual-assembly-of-cultural-relic-fragments",
           title: 'Key Techniques for Virtual Assembly of Cultural Relic Fragments',
           description: "We focus on virtual assembly of cultural relic fragments by addressing varying levels of damage and complexity, categorizing the problem into complete, partial, and complex matching scenarios, and developing corresponding methods based on geometric similarity, surface feature analysis, and interactive feature-based matching to establish accurate fragment adjacency relationships.",
