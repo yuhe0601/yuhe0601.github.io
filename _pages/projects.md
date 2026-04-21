@@ -26,7 +26,25 @@ nav_order: 3
     </div>
     {% endif %}
 
-    <div class="periodical">{{ project.description }}</div>
+    <div class="periodical">
+  {{ project.description }}
+</div>
+
+<!-- ⭐ 项目信息 -->
+<div class="periodical" style="font-size: 0.95em; color: #555;">
+  {% if project.period %}
+    <strong>Period:</strong> {{ project.period }};&nbsp;
+  {% endif %}
+  {% if project.funding %}
+    <strong>Funding:</strong> {{ project.funding }};&nbsp;
+  {% endif %}
+  {% if project.source %}
+    <strong>Source:</strong> {{ project.source }};&nbsp;
+  {% endif %}
+  {% if project.role %}
+    <strong>Role:</strong> {{ project.role }}
+  {% endif %}
+</div>
 
     <div class="links">
       {% if project.github %}<a href="{{ project.github }}">[code]</a>{% endif %}
