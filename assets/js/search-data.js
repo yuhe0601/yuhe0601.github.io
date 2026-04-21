@@ -445,7 +445,7 @@ ninja.data = [{
               window.location.href = "/projects/Provincial2025_project/";
             },},{id: "projects-research-on-the-construction-of-a-multi-level-feature-description-and-understanding-model-for-ceramic-cultural-relic-fragments",
           title: 'Research on the Construction of a Multi-level Feature Description and Understanding Model for...',
-          description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
+          description: "We focus on constructing a multi-level feature description and understanding model for ceramic artifact fragments to overcome the limitations of geometry-driven virtual restoration, including single-form representations, high redundancy, low matching efficiency, and lack of semantic expressiveness.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/YouthSupport_project/";
             },},{id: "teachings-data-science-fundamentals",
