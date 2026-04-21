@@ -413,11 +413,6 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-automatic-reassembly-of-fragmented-artifacts-based-on-deep-feature-pattern-modeling",
           title: '⭐ Automatic Reassembly of Fragmented Artifacts Based on Deep Feature Pattern Modeling',
           description: "We focus on the automatic reassembly of defective cultural relic fragments by addressing three key challenges: deep feature pattern learning with graph-based representation, probabilistic fragment matching, and reassembly optimization. This work establishes a unified framework that advances beyond single-feature matching and supports digital preservation, virtual restoration, and related areas such as deep learning and geometric processing.",
