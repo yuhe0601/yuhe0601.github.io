@@ -414,16 +414,16 @@ ninja.data = [{
           description: "We focus on the automatic reassembly of defective cultural relic fragments by addressing three key challenges: deep feature pattern learning with graph-based representation, probabilistic fragment matching, and reassembly optimization. This work establishes a unified framework that advances beyond single-feature matching and supports digital preservation, virtual restoration, and related areas such as deep learning and geometric processing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2019NSFC_project/";
+            },},{id: "projects-key-techniques-for-cultural-feature-aware-classification-of-cultural-relic-fragments",
+          title: 'Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments',
+          description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2019Provincial_project/";
             },},{id: "projects-large-scale-models-for-ceramic-artifact-virtual-restoration-with-suppressed-cultural-bias-and-hallucination",
           title: '⭐ Large-Scale Models for Ceramic Artifact Virtual Restoration with Suppressed Cultural Bias and...',
           description: "We focus on enabling intelligent virtual restoration of cultural relics by addressing cultural bias, cross-modal hallucinations, and excessive imagination in generative models, through a domain knowledge-driven 3D content generation framework that integrates dynamic feature regulation, cultural-context-aware representation learning, multi-task knowledge distillation, and expert-in-the-loop evaluation to ensure fact-consistent and reliable restoration under low-resource conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025NSFC_project/";
-            },},{id: "projects-key-techniques-for-cultural-feature-aware-classification-of-cultural-relic-fragments",
-          title: 'Key Techniques for Cultural Feature-Aware Classification of Cultural Relic Fragments',
-          description: "We focus on cultural feature-integrated classification of large-scale cultural relic fragments to address bottlenecks in virtual restoration. This framework enhances feature representation and improves classification accuracy, supporting scalable and practical virtual restoration of cultural artifacts.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Provincial2019_project/";
             },},{id: "projects-key-techniques-for-virtual-restoration-of-severely-damaged-cultural-artifacts-based-on-zero-shot-learning",
           title: 'Key Techniques for Virtual Restoration of Severely Damaged Cultural Artifacts Based on Zero-Shot...',
           description: "We focus on virtual restoration of severely damaged cultural artifacts by replacing end-to-end feature matching with a feature-complementary framework for multimodal feature learning, completion, and prediction, enabling zero-shot restoration under missing data and sparse training conditions.",
