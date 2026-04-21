@@ -6,7 +6,7 @@ year: 2019              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 2
 
-grant Number: "61802311"
+grant number: "61802311"
 period: "2019.01.01–2021.12.31"
 funding: "RMB 240,000"
 source: "National Natural Science Foundation of China (NSFC)"
