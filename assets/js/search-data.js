@@ -428,7 +428,7 @@ ninja.data = [{
           title: 'Congratulations to Jiang Yue and Zhen Guo Shi on receiving the National Scholarship!...',
           description: "",
           section: "News",},{id: "news-our-work-cmff-is-accepted-in-neural-networks-congratulations-to-jian-gao",
-          title: 'Our work CMFF is accepted in Neural Networks. Congratulations to Jian Gao. ✨...',
+          title: 'Our work CMFF is accepted in Neural Networks. Congratulations to Jian Gao.',
           description: "",
           section: "News",},{id: "news-i-got-young-top-talent-sanqin-special-support-program-shaanxi-province",
           title: 'I got Young Top Talent, Sanqin Special Support Program (Shaanxi Province). 🎉',
