@@ -422,7 +422,7 @@ ninja.data = [{
           title: 'I got Youth Talent Support Program of the Shaanxi Association for Science and...',
           description: "",
           section: "News",},{id: "news-our-work-2l-lsh-is-accepted-in-the-computer-journal-congratulations-to-shurui-wang",
-          title: 'Our work **2L-LSH** is accepted in The Computer Journal. Congratulations to Shurui Wang....',
+          title: 'Our work 2L-LSH is accepted in The Computer Journal. Congratulations to Shurui Wang....',
           description: "",
           section: "News",},{id: "news-our-work-ai-based-experts-knowledge-visualization-of-cultural-heritage-a-case-study-of-terracotta-warriors-is-accepted-in-jch-congratulations-to-siyi-li",
           title: 'Our work AI-based Experts’ Knowledge Visualization of Cultural Heritage: A Case Study of...',
