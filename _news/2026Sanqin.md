@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got Young Top Talent, Sanqin Special Support Program (Shaanxi Province). :smile:
+I got Young Top Talent, Sanqin Special Support Program (Shaanxi Province). 🎉
