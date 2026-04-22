@@ -416,7 +416,7 @@ ninja.data = [{
           title: 'Congratulations to Jian Gao, Zehua Liu and Chunhui Li on receiving the National...',
           description: "",
           section: "News",},{id: "news-our-work-hdrnet-is-accepted-in-cgf-congratulations-to-jian-gao",
-          title: 'Our work Hdrnet is accepted in CGF. Congratulations to Jian Gao.',
+          title: 'Our work Hdrnet is accepted in CGF. Congratulations to Jian Gao. 🎈',
           description: "",
           section: "News",},{id: "news-our-work-2l-lsh-is-accepted-in-the-computer-journal-congratulations-to-shurui-wang",
           title: 'Our work **2L-LSH** is accepted in The Computer Journal. Congratulations to Shurui Wang....',
