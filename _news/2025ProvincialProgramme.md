@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got Key Programme of Shaanxi Provincial Natural Science Foundation. :smile:
+I got Key Programme of Shaanxi Provincial Natural Science Foundation. 
