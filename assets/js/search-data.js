@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-got-shaanxi-provincial-key-r-amp-d-program-general-program",
-          title: 'I got Shaanxi Provincial Key R&amp;amp;D Program (General Program).',
+            },},{id: "news-i-got-shaanxi-provincial-key-r-amp-amp-d-program-general-program",
+          title: 'I got Shaanxi Provincial Key R&amp;amp;amp;D Program (General Program).',
           description: "",
           section: "News",},{id: "news-i-got-young-scientists-fund-of-the-national-natural-science-foundation-of-china-nsfc-smile",
           title: 'I got Young Scientists Fund of the National Natural Science Foundation of China...',
