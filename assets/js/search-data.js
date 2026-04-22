@@ -404,7 +404,7 @@ ninja.data = [{
           title: 'Our work SGLBP is accepted in CGF. Congratulations to Bao Guo.✨',
           description: "",
           section: "News",},{id: "news-our-work-vfmvac-is-accepted-in-pr-congratulations-to-zehua-liu",
-          title: 'Our work VFMVAC is accepted in PR. Congratulations to Zehua Liu. 🎈',
+          title: 'Our work VFMVAC is accepted in PR. Congratulations to Zehua Liu. ✨',
           description: "",
           section: "News",},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
           title: 'Our work OSFENet is accepted in TVCG. Congratulations to Zhikun Tu.:sparkles:',
