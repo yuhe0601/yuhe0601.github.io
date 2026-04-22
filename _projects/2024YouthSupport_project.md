@@ -2,7 +2,7 @@
 title: "Research on the Construction of a Multi-level Feature Description and Understanding Model for Ceramic Cultural Relic Fragments"
 description: "We focus on constructing a multi-level feature description and understanding model for ceramic artifact fragments to overcome the limitations of geometry-driven virtual restoration, including single-form representations, high redundancy, low matching efficiency, and lack of semantic expressiveness."
 
-year: 2024              # ⭐ 年份分组
+year: 2023              # ⭐ 年份分组
 selected: false          # ⭐ 是否精选
 importance: 4
 
