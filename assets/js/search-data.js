@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-got-young-scientists-fund-of-the-national-natural-science-foundation-of-china-nsfc-smile",
+            },},{id: "news-i-got-shaanxi-provincial-key-r-amp-d-program-general-program",
+          title: 'I got Shaanxi Provincial Key R&amp;amp;D Program (General Program).',
+          description: "",
+          section: "News",},{id: "news-i-got-young-scientists-fund-of-the-national-natural-science-foundation-of-china-nsfc-smile",
           title: 'I got Young Scientists Fund of the National Natural Science Foundation of China...',
           description: "",
           section: "News",},{id: "news-our-work-osfenet-is-accepted-in-tvcg-congratulations-to-zhikun-tu-sparkles",
@@ -399,6 +402,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-got-key-programme-of-shaanxi-provincial-natural-science-foundation-smile",
           title: 'I got Key Programme of Shaanxi Provincial Natural Science Foundation. :smile:',
+          description: "",
+          section: "News",},{id: "news-i-got-youth-talent-support-program-of-the-shaanxi-association-for-science-and-technology",
+          title: 'I got Youth Talent Support Program of the Shaanxi Association for Science and...',
           description: "",
           section: "News",},{id: "news-i-got-nsfc-general-program",
           title: 'I got NSFC general program. 🎉',
