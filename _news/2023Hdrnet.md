@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2023-04-15
+inline: true
+related_posts: false
+---
+
+Our work **Hdrnet** is accepted in CGF. Congratulations to Jian Gao.
